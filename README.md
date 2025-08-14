@@ -81,9 +81,9 @@ Example: Distribution of `MEDV` (House Prices) in the dataset.
 ![Boston Housing Histogram](boston_histogram.png)
 
 
-## 🌐 Deployment (Optional)
+## 🌐 Deployment 
 
-You can deploy the trained model using Flask locally or host it online using **Heroku**.
+This project was deployed using Heroku
 
 Run locally:
 
@@ -93,23 +93,8 @@ python app.py
 
 The app will be accessible at `http://127.0.0.1:5000`.
 
----
 
 ## 📜 License
 
 This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.
 
----
-
-## ✨ Author
-
-**Your Name**
-🔗 [LinkedIn](https://linkedin.com/in/yourusername) | [GitHub](https://github.com/yourusername)
-
-```
-
----
-
-If you want, I can also **add GitHub badges** (Python version, License, Last Commit, Open Issues) at the top so it looks more professional and eye-catching for recruiters browsing your repo.  
-Do you want me to add those badges too?
-```
